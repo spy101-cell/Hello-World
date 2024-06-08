@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Title Here</title>
+</head>
+<body>
+
+<header>
+    <h1>Your Name's Writings</h1>
+</header>
+
+<div class="container">
+    <h2>Latest Writings</h2>
+    <div class="writing">
+        <h3>Writing Title 1</h3>
+        <p>Description or brief excerpt of the writing. You can provide a link to the full text on Wattpad.</p>
+    </div>
+    <div class="writing">
+        <h3>Writing Title 2</h3>
+        <p>Description or brief excerpt of the writing. You can provide a link to the full text on Wattpad.</p>
+    </div>
+    <!-- Add more writing sections as needed -->
+</div>
+
+</body>
+</html>
